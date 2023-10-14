@@ -23,3 +23,9 @@ After we create these data structures in this project, feel free to challenge yo
 For the scope of this project, we won’t need to create setter methods, because we don’t want anyone to change the data saved to the properties.
 
 **6.** Create another getter method called games to retrieve the _games property. Inside the getter method, return the _games property.
+
+### Adding Data
+
+**7.** We want to add a new player to our team. Add a .addPlayer() method to the team object. This method should take in three parameters: newFirstName, newLastName, and newAge.
+
+Inside the method, create a player object by setting the three parameters to be the values for the object’s three properties: firstName, lastName, age. Finally, add the player object to the team‘s _players array.
