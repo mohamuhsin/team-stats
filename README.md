@@ -7,5 +7,5 @@ After we create these data structures in this project, feel free to challenge yo
 # Tasks
 
 ### Populating Data
-1.
-Let’s make a data structure to store the information about our team. Declare a const variable called team and set it to an empty object.
+
+**1.** Let’s make a data structure to store the information about our team. Declare a const variable called team and set it to an empty object.
