@@ -37,3 +37,7 @@ Log the team‘s _players property to check that our new player was added.
 Below the team object, let’s try out our new .addPlayer() method to add a new player: Bugs Bunny, age 76.
 
 Log the team‘s _players property to check that our new player was added.
+
+**9.** The scorekeeper has some new information for us! Create a method for adding game results called addGame that takes three parameters: newOpponent, newTeamPoints, newOpponentPoints.
+
+Inside the .addGame() method, create a game object by setting the three parameters to be the values for the object’s three properties: opponent, teamPoints, opponentPoints. Add the game object to the team‘s _games array.
