@@ -21,3 +21,5 @@ After we create these data structures in this project, feel free to challenge yo
 **5.** Create a getter method called players to retrieve the _players property. Inside the getter method, return the _players property.
 
 For the scope of this project, we won’t need to create setter methods, because we don’t want anyone to change the data saved to the properties.
+
+**6.** Create another getter method called games to retrieve the _games property. Inside the getter method, return the _games property.
