@@ -1,1 +1,1 @@
-# team-stats
+# Team Stats
