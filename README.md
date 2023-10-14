@@ -41,3 +41,7 @@ Log the team‘s _players property to check that our new player was added.
 **9.** The scorekeeper has some new information for us! Create a method for adding game results called addGame that takes three parameters: newOpponent, newTeamPoints, newOpponentPoints.
 
 Inside the .addGame() method, create a game object by setting the three parameters to be the values for the object’s three properties: opponent, teamPoints, opponentPoints. Add the game object to the team‘s _games array.
+
+**10.** Finally, below our team object, use the .addGame() method to add a record of a new game. Our team played against the 'Titans' where we scored 100 points and the opponent scored 98 points.
+
+Log the team‘s _games property to check that our new game record was properly added.
