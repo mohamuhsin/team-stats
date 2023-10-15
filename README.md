@@ -16,7 +16,7 @@ After we create these data structures in this project, feel free to challenge yo
 
 **4.** Let’s do the same for our _games array. Populate the empty array with three games. Each game should be an object containing three properties: opponent, teamPoints, opponentPoints.
 
- Getting Data
+ ### Getting Data
 
 **5.** Create a getter method called players to retrieve the _players property. Inside the getter method, return the _players property.
 
