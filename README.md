@@ -22,7 +22,7 @@ After we create these data structures in this project, feel free to challenge yo
 
 For the scope of this project, we won’t need to create setter methods, because we don’t want anyone to change the data saved to the properties.
 
-**.** Create another getter method called games to retrieve the _games property. Inside the getter method, return the _games property.
+**6.** Create another getter method called games to retrieve the _games property. Inside the getter method, return the _games property.
 
 ### Adding Data
 
