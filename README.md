@@ -30,7 +30,7 @@ For the scope of this project, we won’t need to create setter methods, because
 
 Inside the method, create a player object by setting the three parameters to be the values for the object’s three properties: firstName, lastName, age. Finally, add the player object to the team‘s _players array.
 
-**.** Below the team object, let’s try out our new .addPlayer() method to add a new player: Bugs Bunny, age 76.
+**8.** Below the team object, let’s try out our new .addPlayer() method to add a new player: Bugs Bunny, age 76.
 
 Log the team‘s _players property to check that our new player was added.
 
